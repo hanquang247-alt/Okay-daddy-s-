@@ -1,0 +1,19 @@
+HƯỚNG DẪN NHANH
+
+1. Website chính: index.html
+2. Giao diện: style.css
+3. Danh sách + nội dung chương: script.js
+4. Trang đọc: chap.html
+
+Ảnh đã được đặt sẵn trong cùng thư mục:
+- cover.png
+- hoac-kien-vuong.jpg
+- vu-thinh-duy.png
+- bui-nhat-thanh.jpg
+- lap-minh.jpg
+- hoac-du-an.jpg
+
+Để thay nội dung Chap, mở script.js và sửa phần:
+{ n: 1, title: "...", text: ["đoạn 1", "đoạn 2"] }
+
+Sau đó tải toàn bộ file lên GitHub repository và bật GitHub Pages từ branch main / thư mục root.
